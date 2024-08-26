@@ -1,4 +1,4 @@
-# Flutter FCM Push Notification
+# Flutter Notification
 
 A Flutter sample app for demonstrating how to handle firebase push notifications in the background and foreground.
 
